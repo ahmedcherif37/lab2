@@ -1,7 +1,7 @@
 # Perfectionner l'infrastructure systèmes et réseaux d'une entreprise
 
 <div align="center">
-    <img src="images/infrastructure.png" alt="infra" width="80%" height="80%">
+    <img src="images/shema_reseau.png" alt="infra" width="80%" height="80%">
 </div>
 
 •	Création  du réseau de l'entreprise en utilisant un VLAN pour chaque service 
